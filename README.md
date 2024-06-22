@@ -4,7 +4,7 @@
 Live Site URL: [Preview](https://66736eaedd68c8b7f2fc2452--frabjous-gelato-dc0ae9.netlify.app/)
 
 ## Description
-An intuitive and user-friendly application built with React to help users track their income and expenses efficiently.
+An intuitive and user-friendly application built with React to help users track their income and expenses efficiently .
  
 ## Features
 - Add new income or expense records.
