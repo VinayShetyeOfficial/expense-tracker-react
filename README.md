@@ -10,7 +10,7 @@ An intuitive and user-friendly application built with React to help users track 
 - Add new income or expense records.   
 - View a history of past transactions.        
 - Categorize transactions for better financial management.   
- 
+  
 ## Installation    
 1. Clone the repository:   
    ```bash
