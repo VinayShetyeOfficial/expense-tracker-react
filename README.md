@@ -1,7 +1,7 @@
 # Expense-Tracker-React
 ![image](https://github.com/VinayShetyeOfficial/Expense-Tracker-React/assets/100470361/1944607d-6cc3-4787-91d8-e66aa1870737)
              
-Live Site URL: [Preview](https://66736eaedd68c8b7f2fc2452--frabjous-gelato-dc0ae9.netlify.app/)      
+Live Site URL: [Preview](https://66736eaedd68c8b7f2fc2452--frabjous-gelato-dc0ae9.netlify.app/)       
                
 ## Description               
 An intuitive and user-friendly application built with React to help users track their income and expenses efficiently.       
