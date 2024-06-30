@@ -11,7 +11,7 @@ An intuitive and user-friendly application built with React to help users track 
 - Categorize transactions for better financial management.   
    
 ## Installation     
-1. Clone the repository:   
+1. Clone the repository:    
    ```bash
    git clone https://github.com/VinayShetyeOfficial/Expense-Tracker-React.git
    ```  
