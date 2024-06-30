@@ -6,7 +6,7 @@ Live Site URL: [Preview](https://66736eaedd68c8b7f2fc2452--frabjous-gelato-dc0ae
 An intuitive and user-friendly application built with React to help users track their income and expenses efficiently.         
      
 ## Features          
-- Add new income or expense records.     
+- Add new income or expense records.      
 - View a history of past transactions.          
 - Categorize transactions for better financial management.   
    
