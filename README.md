@@ -19,7 +19,7 @@ An intuitive and user-friendly application built with React to help users track 
 2. Navigate to the project directory:
    ```bash
     cd Expense-Tracker-React 
-   ```
+   ``` 
    
 3. Install dependencies:
    ```bash
