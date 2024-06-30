@@ -14,7 +14,7 @@ An intuitive and user-friendly application built with React to help users track 
 1. Clone the repository:   
    ```bash
    git clone https://github.com/VinayShetyeOfficial/Expense-Tracker-React.git
-   ``` 
+   ```  
  
 2. Navigate to the project directory:
    ```bash
